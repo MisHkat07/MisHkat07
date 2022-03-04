@@ -25,11 +25,11 @@
     <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&show_icons=true&include_all_commits=true&theme=tokyonight" alt="MisHkat07's github stats" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&layout=compact&theme=tokyonight" />
-</a>
 <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MisHkat07&theme=tokyonight" />
+</a>
+ <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&layout=compact&theme=tokyonight" />
 </a>
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
