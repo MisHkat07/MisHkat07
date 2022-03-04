@@ -28,11 +28,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MisHkat07&theme=tokyonight" />
 </a>
  
-     ![Snake animation](https://github.com/jorgewqs/jorgewqs/blob/output/github-contribution-grid-snake.svg)
- 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&layout=compact&theme=tokyonight" />
 </a>
   </p>
+  
+       ![Snake animation](https://github.com/MisHkat07/MisHkat07/blob/output/github-contribution-grid-snake.svg)
   
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MisHkat07)  
