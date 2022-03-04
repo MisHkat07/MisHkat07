@@ -1,7 +1,10 @@
 <h1 align="center">Ⓜ It's &lt;MisHkat/&gt;</h1>
 <h3 align="center">A passionate Self-Learner Full Stack Web Developer.</h3>
-<img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
- ![Profile views](https://gpvc.arturio.dev/MisHkat07) 
+
+<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
+ ![Profile views](https://gpvc.arturio.dev/MisHkat07) <br/>
+ 
+ 
 - 🖥 Currently working on Web Development
 - 📌 Currently learning **Web Security**
 - 😎 Things i love : **Music, Books, Phsychology, Phycics, Animals, Comics, Exploring new challanges.**
