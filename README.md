@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/mishkat_07" target="blank"><img src="https://img.shields.io/twitter/follow/mishkat_07?logo=twitter&style=for-the-badge" alt="mishkat_07" /></a> </p>
 
-- Currently learning **Web Security**
+- 🖥 I’m currently working on Web Developing 
+- 📌 Currently learning **Web Security**
 
-- 😎 Things those i love are **Music, Books, Phsychology, Phycics, Animal, Comics, Exploring new challanges.**
+- 😎 Things i love **Music, Books, Phsychology, Phycics, Animals, Comics, Exploring new challanges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
