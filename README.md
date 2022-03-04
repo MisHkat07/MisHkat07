@@ -31,7 +31,7 @@
 <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MisHkat07&theme=tokyonight" />
 </a>
-   <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+   <a href="https://github.com/MisHkat07/MisHkat07"><img alt="Snake animation" src="https://github.com/MisHkat07/MisHkat07/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
   
   
