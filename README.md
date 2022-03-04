@@ -1,9 +1,9 @@
 <h1 align="center"> 👋 Heylo! It's &lt;MisHkat/&gt;</h1>
 <h3 align="center">A passionate Full Stack Web Developer.</h3>
 
-![Profile views](https://gpvc.arturio.dev/MisHkat07)  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishkat07" alt="mishkat07" /></a> </p>
+
+<p align="center"> ![Profile views](https://gpvc.arturio.dev/MisHkat07) <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishkat07" alt="mishkat07" /></a> </p>
 
 
 - 🖥 Currently working on Web Developing 
