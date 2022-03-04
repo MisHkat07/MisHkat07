@@ -22,18 +22,20 @@
 
 
    <p align="center">
-    <a href="https://github.com/MisHkat07/MisHkat07"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MisHkat07&theme=light"/></a>
-    <a href="https://github.com/MisHkat07/MisHkat07"><img alt="MisHkat GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&show_icons=true" width=55%/></a>
-    <a href="https://github.com/MisHkat07/MisHkat07"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&layout=compact&langs_count=8" width=40%/></a>
+    <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&show_icons=true&include_all_commits=true&theme=tokyonight" alt="MisHkat07's github stats" />
+</a>
+    <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&layout=compact&theme=tokyonight" />
+</a>
+    <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&show_icons=true&include_all_commits=true&theme=tokyonight" alt="MisHkat07's github stats" />
+</a>
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
   
-  <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&show_icons=true&include_all_commits=true&theme=tokyonight" alt="MisHkat07's github stats" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&layout=compact&theme=tokyonight" />
-</a>
+  
+
 <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MisHkat07&theme=tokyonight" />
 </a>
