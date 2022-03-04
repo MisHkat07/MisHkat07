@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishkat07" alt="mishkat07" /></a> </p>
 
  ![Profile views](https://gpvc.arturio.dev/MisHkat07) 
-- 🖥 Currently working on Web Developing 
+- 🖥 Currently working on Web Development
 - 📌 Currently learning **Web Security**
 - 😎 Things i love : **Music, Books, Phsychology, Phycics, Animals, Comics, Exploring new challanges.**
 
