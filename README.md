@@ -6,8 +6,7 @@
  ![Profile views](https://gpvc.arturio.dev/MisHkat07) <br/>
  
  
-- 🖥 Currently working on Web Development
-- 📌 Currently learning **Web Security**
+- 🖥 Currently working learning on **Web Development**
 - 😎 Things i love : **Music, Books, Phsychology, Phycics, Animals, Comics, Exploring new challanges.**
 - 🌏 Website: https://mishkat-07.netlify.com
 
