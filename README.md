@@ -1,6 +1,5 @@
 ### Heylo there! It's &lt;MisHkat/&gt;
 #### Full Stack Web Developer
-![Full Stack Web Developer](https://mishkat-07.netlify.app/static/media/avatar.9efbb503a4774482ae6d.png)
 
 
 Skills: ReactJs / NodeJs / ExpressJs / PSQL / JavaScript / SCSS / CSS / HTML
