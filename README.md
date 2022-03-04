@@ -6,10 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishkat07" alt="mishkat07" /></a> </p>
 
 
-- 🖥 I’m currently working on Web Developing 
+- 🖥 Currently working on Web Developing 
 - 📌 Currently learning **Web Security**
 
-- 😎 Things i love **Music, Books, Phsychology, Phycics, Animals, Comics, Exploring new challanges.**
+- 😎 Things i love : **Music, Books, Phsychology, Phycics, Animals, Comics, Exploring new challanges.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
