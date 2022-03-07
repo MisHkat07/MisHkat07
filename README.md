@@ -7,7 +7,7 @@
  
  
 - 🖥 Currently learning & working on **Web Development**
-- 😎 Things i love : **Music, Books, Phsychology, Physics, Animals, Comics, Football, Exploring new challanges or may be the Diffie Hellman😛.**
+- 😎 Things i love : **Music, Books, Psychology, Physics, Animals, Comics, Football, Exploring new challanges or may be the Diffie Hellman😛.**
 - 🌏 Website: https://mishkat-07.netlify.com
 
 
