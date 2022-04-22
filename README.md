@@ -31,5 +31,4 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&layout=compact&theme=tokyonight" />
 </a>
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aj2pztrdyoniz8v1facrn2xx8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
   </p>
