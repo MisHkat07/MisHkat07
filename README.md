@@ -30,10 +30,8 @@
     <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&show_icons=true&include_all_commits=true&theme=tokyonight" alt="MisHkat07's github stats" />
 </a>
-<a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MisHkat07&theme=tokyonight" />
-</a>
-   <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&layout=compact&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&layout=compact&theme=tokyonight" />
+   <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aj2pztrdyoniz8v1facrn2xx8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 </a>
   </p>
