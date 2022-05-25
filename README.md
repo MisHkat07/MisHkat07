@@ -1,6 +1,5 @@
 <h1 align="center">Ⓜ It's &lt;MisHkat/&gt;</h1>
 <h3 align="center">A passionate self-taught Full Stack Web Developer.</h3>
- ![Profile views](https://gpvc.arturio.dev/MisHkat07)<br/>
  
  
 - Currently working on **Programming & Web Development**
