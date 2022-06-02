@@ -2,7 +2,7 @@
 <h3 align="center">A passionate self-taught Full Stack Web Developer.</h3>
  
  
-- Currently working on **Programming & Web Development**
+- Currently learning **Data Structure & Algorithm**
 - Things i love : **Music, Books, Psychology, Physics, Animals, Comics, Football, Exploring new challanges or may be the Diffie Hellman😛.**
 - 🌏 Website: https://mishkat-07.netlify.com
 
