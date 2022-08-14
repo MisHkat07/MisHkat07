@@ -12,14 +12,14 @@
     <tr>
         <td>
             <img
-                width="4000"
-                src="https://github-readme-stats.vercel.app/api?username=MisHkat07&count_private=true&show_icons=true&theme=dracula"
+                width="5000"
+                src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&count_private=true&show_icons=true&theme=dracula"
             />
         </td>
         <td>
             <img
                 width="5000"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&theme=dracula&langs_count=10&layout=compact&hide=css"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&theme=dracula&langs_count=10&layout=compact&hide=css"
             />
         </td>
     </tr>
@@ -27,7 +27,7 @@
         <td>
             <img
                 width="5000"
-                src="http://github-readme-streak-stats.herokuapp.com?user=MisHkat07&theme=dracula"
+                src="http://github-readme-streak-stats.herokuapp.com?username=MisHkat07&hide_border=true&theme=dracula"
             />
         </td>
         <td>
@@ -39,7 +39,6 @@
     </tr>
 </table>
    <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&theme=dracula" />
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
   
