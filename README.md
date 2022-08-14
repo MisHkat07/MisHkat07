@@ -12,7 +12,6 @@
     <tr>
         <td>
             <img
-                width="5000"
                 src="https://github-readme-stats.vercel.app/api?username=MisHkat07&count_private=true&show_icons=true&theme=dracula&hide_border=true"
             />
         </td>
@@ -39,6 +38,7 @@
     </tr>
 </table>
    <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&theme=dracula&langs_count=10" />
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
   
