@@ -12,13 +12,13 @@
     <tr>
         <td>
             <img
-                src="https://github-readme-stats.vercel.app/api?username=MisHkat07&count_private=true&show_icons=true&theme=dracula&hide_border=true"
+                src="https://github-readme-stats.vercel.app/api?username=MisHkat07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&count_private=true&show_icons=true&theme=dracula&hide_border=true"
             />
         </td>
         <td>
             <img
                 width="5000"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&theme=dracula&langs_count=10&layout=compact&hide_border=true"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&theme=dracula&langs_count=10"
             />
         </td>
     </tr>
