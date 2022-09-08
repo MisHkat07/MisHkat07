@@ -1,13 +1,9 @@
 <h1 align="center">It's &lt;MisHkat/&gt;</h1>
 <h3 align="center">Apprentice Full Stack Web Developer.</h3>
- 
- 
-- Currently learning **Data Structure & Algorithm**
-- Things i love : **Music, Books, Psychology, Physics, Animals, Comics, Football, Exploring new challanges or may be the Diffie Hellman😛.**
-- 🌏 Personal Website: https://mishkat-07.netlify.com
 
+🌏 Personal Website: https://mishkat-07.netlify.com
 
-<h2 align="center">📌 My Profile Stats</h2>
+<h2 align="center">Profile Stats</h2>
 <table>
     <tr>
         <td>
