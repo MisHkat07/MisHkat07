@@ -2,6 +2,7 @@
 <h3 align="center">Apprentice Full Stack Web Developer.</h3>
 
 <h3 align="center">🌏 Personal Website: https://mishkat-07.netlify.com </h3>
+<h3 align="center">📑 Resume: shorturl.at/eiky7 </h3>
 
 <h2 align="center">Profile Stats</h2>
 <table>
