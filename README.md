@@ -3,7 +3,7 @@
 
 <h3 align="center">🌏 Personal Website: https://mishkat-07.netlify.com </h3>
 <h3 align="center">📑 Resume: https://bit.ly/3NOWBS8 </h3>
-<h3 align="center">📑 Showcase: https://bit.ly/3NOWBS8](https://www.showwcase.com/mishkat07 </h3>
+<h3 align="center">📑 Showcase: https://www.showwcase.com/mishkat07 </h3>
 
 <h2 align="center">Profile Stats</h2>
 <table>
