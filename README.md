@@ -1,11 +1,11 @@
-<h1 align="center">It's &lt;MisHkat/&gt;</h1>
+<h2 align="center">It's &lt;MisHkat/&gt;</h2>
 <h3 align="center">Apprentice Full Stack Web Developer.</h3>
 
-<h3 align="center">🌏 Personal Website: https://mishkat-07.netlify.com </h3>
-<h3 align="center">📑 Resume: https://bit.ly/3NOWBS8 </h3>
-<h3 align="center">📊 Showcase: https://www.showwcase.com/mishkat07 </h3>
+<h4 align="center">🌏 Personal Website: https://mishkat-07.netlify.com </h4>
+<h4 align="center">📑 Resume: https://bit.ly/3NOWBS8 </h4>
+<h4 align="center">📊 Showcase: https://mishkat07.showwcase.com </h4>
 
-<h2 align="center">Profile Stats</h2>
+<h5 align="center">Profile Stats</h5>
 <table>
     <tr>
         <td>
