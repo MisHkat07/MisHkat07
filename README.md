@@ -23,8 +23,8 @@
 </table>
       
   <table>
-  <tr  width="820">
-    <td  width="810">
+  <tr >
+    <td width="820">
       <h3 align="center"><  𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠  /></h3>
 <p align="center" width="810">
 
