@@ -29,10 +29,7 @@
             />
         </td>
         <td>
-            <img
-                width="5000"
-                src="https://activity-graph.vercel.app/graph?username=MisHkat07&theme=tokyonight&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
-            />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="MisHkat07's Github Stats">
         </td>
     </tr>
 </table>
