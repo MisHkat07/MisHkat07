@@ -7,7 +7,7 @@
 <h4>➡ 𝘚𝘩𝘰𝘸𝘸𝘤𝘢𝘴𝘦: https://mishkat07.showwcase.com </h4>
 </div>
 
-<div align="center" width="1011">
+<div align="center">
             
   <table>
   <tr>
@@ -15,7 +15,7 @@
 <div align="center">
 <h3 align="center"><  𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙎𝙩𝙖𝙩𝙨  /></h3>
         
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" /><img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
+<img height="190" width="500" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" /><img height="190" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
       
 </div>
 </td>
