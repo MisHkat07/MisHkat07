@@ -7,10 +7,10 @@
 
 <h4 align="center">📈 &nbsp;Profile Stats</h4>
 
-<table align="center">
+<table>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" />
+             <img src="https://github-readme-stats.vercel.app/api?username=MisHkat07&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="MisHkat's Stats" />
         </td>
         <td>
           <img
