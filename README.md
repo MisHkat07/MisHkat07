@@ -6,33 +6,24 @@
 <h4 align="center">📊 Showcase: https://mishkat07.showwcase.com </h4>
 
 <h5 align="center">Profile Stats</h5>
-<table>
-    <tr>
-        <td>
-            <img
-                 width="5000"
-                src="https://github-readme-stats.vercel.app/api?username=MisHkat07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
-            />
-        </td>
-        <td>
-            <img
+
+<img
                 width="5000"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"
             />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img
-                width="5000"
-                src="http://github-readme-streak-stats.herokuapp.com?user=MisHkat07&theme=tokyonight&hide_border=true"
-            />
-        </td>
-        <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="MisHkat07's Github Stats">
-        </td>
-    </tr>
-</table>
+            
+### 🛠 &nbsp;Tech Stack
+
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs&logoColor=FFA518)&nbsp;
+![Next](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
    <p align="center">
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
