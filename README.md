@@ -8,20 +8,19 @@
 </div>
 
 <h4 align="center">📈 &nbsp;Profile Stats:</h4>
+
 <div align="center">
 <table>
     <tr>
         <td>
-     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
+             <img height="190" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" />
         </td>
     </tr>
-    
     <tr>
-      <td>
-       <img height="190" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" />
+        <td>
+          <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
         </td>
     </tr>
-    
 </table>
 </div>
 
