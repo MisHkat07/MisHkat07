@@ -31,7 +31,7 @@
         <td>
             <img
                 width="5000"
-                src="https://activity-graph.herokuapp.com/graph?username=MisHkat07&theme=tokyonight&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
+                src="https://activity-graph.vercel.app/graph?username=MisHkat07&theme=tokyonight&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
             />
         </td>
     </tr>
