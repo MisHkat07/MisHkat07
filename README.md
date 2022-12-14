@@ -11,7 +11,7 @@
             
   <table>
   <tr>
-    <td width="820">
+    <td width="825">
 <div align="center">
 <h3 align="center"><  𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙎𝙩𝙖𝙩𝙨  /></h3>
         
@@ -24,7 +24,7 @@
       
   <table>
   <tr >
-    <td width="820">
+    <td width="825">
       <h3 align="center"><  𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠  /></h3>
 <div align="center">
 
