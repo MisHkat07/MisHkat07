@@ -6,18 +6,23 @@
 <h4 align="center">📊 Showcase: https://mishkat07.showwcase.com </h4>
 
 <h5 align="center">Profile Stats</h5>
+###
 
-<img
-                width="5000"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"
+<div align="center">
+  <img width="500"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10"
             />
-            
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&username=MisHkat07" width="500" alt="stats graph"  />
+</div>
+
+###
+
 ### 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs&logoColor=FFA518)&nbsp;
-![Next](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node&logoColor=FFA518)&nbsp;
+![NextJs](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next&logoColor=A8B9CC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
