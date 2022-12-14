@@ -22,8 +22,8 @@
   </tr>
 </table>
       
-  <table  width="820">
-  <tr  width="810">
+  <table>
+  <tr  width="820">
     <td  width="810">
       <h3 align="center"><  𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠  /></h3>
 <p align="center" width="810">
