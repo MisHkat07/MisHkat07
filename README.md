@@ -12,21 +12,6 @@
 <table>
     <tr>
         <td>
-<div align="center">
-<h5>🌏 Personal Website: https://mishkat-07.netlify.com </h5>
-<h5>📊 Showwcase: https://mishkat07.showwcase.com </h5>
-</div>
-        </td>
-        <td>
-            <div align="center">
-<h5>📘 LinkedIn: https://www.linkedin.com/in/mishkat07 </h5>
-<h5>📑 Resume: https://bit.ly/3NOWBS8 </h5>
-</div>
-
-        </td>
-    </tr>
-    <tr>
-        <td>
              <img height="190" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" />
         </td>
         <td>
