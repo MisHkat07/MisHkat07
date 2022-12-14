@@ -3,13 +3,13 @@
 
 <h4 align="center">🌏 Personal Website: https://mishkat-07.netlify.com </h4>
 <h4 align="center">📑 Resume: https://bit.ly/3NOWBS8 </h4>
-<h4 align="center">📊 Showcase: https://mishkat07.showwcase.com </h4>
+<h4 align="center">📊 Showwcase: https://mishkat07.showwcase.com </h4>
 
 <h5 align="center">Profile Stats</h5>
 
 <div align="center">
   <img width="500"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=midnight-purple&langs_count=10"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=react-dark&langs_count=10"
             />
 </div>
 
