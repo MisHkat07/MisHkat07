@@ -5,7 +5,7 @@
 <h4 align="center">📑 Resume: https://bit.ly/3NOWBS8 </h4>
 <h4 align="center">📊 Showwcase: https://mishkat07.showwcase.com </h4>
 
-<h5 align="center">### 📈 &nbsp;Profile Stats</h5>
+<h4 align="center">📈 &nbsp;Profile Stats</h4>
 
 <div align="center">
   <img width="500"
@@ -13,7 +13,7 @@
             />
 </div>
 
-<h5 align="center">### 🛠 &nbsp;Tech Stack</h5>
+<h4 align="center">🛠 &nbsp;Tech Stack</h4>
 
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
