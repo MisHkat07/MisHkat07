@@ -11,7 +11,7 @@
             
   <table>
   <tr>
-    <td width="825">
+    <td>
 <div align="center">
 <h3 align="center"><  𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙎𝙩𝙖𝙩𝙨  /></h3>
         
