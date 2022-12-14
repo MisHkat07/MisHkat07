@@ -1,5 +1,5 @@
 <h2 align="center">It's &lt;MisHkat/&gt;</h2>
-<h3 align="center" color="green">Apprentice Full Stack Web Developer</h3>
+<h3 align="center">Apprentice Full Stack Web Developer</h3>
 
 <div align="center">
 <h5>🌏 Personal Website: https://mishkat-07.netlify.com </h5>
