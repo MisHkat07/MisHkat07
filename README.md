@@ -11,7 +11,7 @@
             
   <table>
   <tr>
-    <td>
+    <td width="820">
 <div align="center">
 <h3 align="center"><  𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙎𝙩𝙖𝙩𝙨  /></h3>
         
@@ -26,7 +26,7 @@
   <tr >
     <td width="820">
       <h3 align="center"><  𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠  /></h3>
-<p align="center" width="810">
+<div align="center">
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
@@ -44,7 +44,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
-</p>
+</div>
     </td>
   </tr>
 </table>
