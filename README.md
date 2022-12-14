@@ -9,10 +9,9 @@
 ###
 
 <div align="center">
-  <img width="500"
+  <img width="1000"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&theme=midnight-purple&langs_count=10"
             />
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&username=MisHkat07" width="500" alt="stats graph"  />
 </div>
 
 ###
