@@ -1,20 +1,20 @@
-<h2 align="center">𝙸𝚝'𝚜 <𝙈𝙞𝙨𝙃𝙠𝙖𝙩/></h2>
+<h2 align="center">𝘐𝘵'𝘴 <𝙈𝙞𝙨𝙃𝙠𝙖𝙩/></h2>
 <h3 align="center">𝘈𝘱𝘱𝘳𝘦𝘯𝘵𝘪𝘤𝘦 𝘍𝘶𝘭𝘭𝘴𝘵𝘢𝘤𝘬 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘚𝘱𝘦𝘤𝘪𝘢𝘭𝘪𝘻𝘦𝘥 𝘪𝘯 𝘔𝘌𝘙𝘕</h3>
 
 <div align="center">
-<h4>🌏 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞: https://mishkat-07.netlify.com </h4>
-<h4>📑 𝐑𝐞𝐬𝐮𝐦𝐞: https://bit.ly/3NOWBS8 </h4>
-<h4>📊 𝐒𝐡𝐨𝐰𝐰𝐜𝐚𝐬𝐞: https://mishkat07.showwcase.com </h4>
+<h4>🌏 𝘗𝘦𝘳𝘴𝘰𝘯𝘢𝘭 𝘞𝘦𝘣𝘴𝘪𝘵𝘦: https://mishkat-07.netlify.com </h4>
+<h4>📑 𝘙𝘦𝘴𝘶𝘮𝘦: https://bit.ly/3NOWBS8 </h4>
+<h4>📊 𝘚𝘩𝘰𝘸𝘸𝘤𝘢𝘴𝘦: https://mishkat07.showwcase.com </h4>
 </div>
 
-<h3 align="center">📈 &nbsp;<𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐒𝐭𝐚𝐭𝐬/></h3>
+<h3 align="center">📈 &nbsp;<𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙎𝙩𝙖𝙩𝙨/></h3>
 
 <div align="center">
 
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" /><img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
 </div>
 
-<h3 align="center">🛠 &nbsp;<𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤/></h3>
+<h3 align="center">🛠 &nbsp;<𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠/></h3>
 <div align="center">
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
