@@ -1,20 +1,20 @@
-<h2 align="center">It's <𝙈𝙞𝙨𝙃𝙠𝙖𝙩/></h2>
-<h3 align="center">𝐀𝐩𝐩𝐫𝐞𝐧𝐭𝐢𝐜𝐞 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
+<h2 align="center">𝙸𝚝'𝚜 <𝙈𝙞𝙨𝙃𝙠𝙖𝙩/></h2>
+<h3 align="center">𝙰𝚙𝚙𝚛𝚎𝚌𝚒𝚊𝚝𝚎 <𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸/> 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚂𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎𝚍 𝚒𝚗 <𝗠𝗘𝗥𝗡/></h3>
 
 <div align="center">
-<h5>🌏 Personal Website: https://mishkat-07.netlify.com </h5>
-<h5>📑 Resume: https://bit.ly/3NOWBS8 </h5>
-<h5>📊 Showwcase: https://mishkat07.showwcase.com </h5>
+<h4>🌏 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚆𝚎𝚋𝚜𝚒𝚝𝚎: https://mishkat-07.netlify.com </h4>
+<h4>📑 𝚁𝚎𝚜𝚞𝚖𝚎: https://bit.ly/3NOWBS8 </h4>
+<h4>📊 𝚂𝚑𝚘𝚠𝚠𝚌𝚊𝚜𝚎: https://mishkat07.showwcase.com </h4>
 </div>
 
-<h4 align="center">📈 &nbsp;Profile Stats:</h4>
+<h3 align="center">📈 &nbsp;<𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗦𝘁𝗮𝘁𝘀/></h3>
 
 <div align="center">
 
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" /><img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
 </div>
 
-<h4 align="center">🛠 &nbsp;Tech Stack:</h4>
+<h3 align="center">🛠 &nbsp;<𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸/></h3>
 <div align="center">
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
