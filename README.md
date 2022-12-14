@@ -22,7 +22,7 @@
   </tr>
 </table>
   
-  <table width="500">
+  <table>
   <tr>
     <td>
       <h3 align="center"><  𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠  /></h3>
