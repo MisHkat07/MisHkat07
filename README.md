@@ -12,6 +12,21 @@
 <table>
     <tr>
         <td>
+<div align="center">
+<h5>🌏 Personal Website: https://mishkat-07.netlify.com </h5>
+<h5>📊 Showwcase: https://mishkat07.showwcase.com </h5>
+</div>
+        </td>
+        <td>
+            <div align="center">
+<h5>📘 LinkedIn: https://www.linkedin.com/in/mishkat07 </h5>
+<h5>📑 Resume: https://bit.ly/3NOWBS8 </h5>
+</div>
+
+        </td>
+    </tr>
+    <tr>
+        <td>
              <img height="190" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" />
         </td>
         <td>
@@ -23,7 +38,7 @@
 
 <h4 align="center">🛠 &nbsp;Tech Stack:</h4>
 <div align="center">
- 
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
