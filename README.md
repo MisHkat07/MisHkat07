@@ -7,7 +7,7 @@
 <h5>📊 Showwcase: https://mishkat07.showwcase.com </h5>
 </div>
 
-##<h4 align="center">📈 &nbsp;Profile Stats:</h4>
+<h4 align="center">📈 &nbsp;Profile Stats:</h4>
 <div align="center">
 <table>
     <tr>
@@ -21,7 +21,7 @@
 </table>
 </div>
 
-##<h4 align="center">🛠 &nbsp;Tech Stack:</h4>
+<h4 align="center">🛠 &nbsp;Tech Stack:</h4>
 <div align="center">
  
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
