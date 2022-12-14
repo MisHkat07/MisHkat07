@@ -1,12 +1,13 @@
 <h2 align="center">It's &lt;MisHkat/&gt;</h2>
 <h3 align="center">Apprentice Full Stack Web Developer</h3>
 
-<h4 align="center">🌏 Personal Website: https://mishkat-07.netlify.com </h4>
-<h4 align="center">📑 Resume: https://bit.ly/3NOWBS8 </h4>
-<h4 align="center">📊 Showwcase: https://mishkat07.showwcase.com </h4>
+<div align="center">
+<h4 align="left">🌏 Personal Website: https://mishkat-07.netlify.com </h4>
+<h4 align="left">📑 Resume: https://bit.ly/3NOWBS8 </h4>
+<h4 align="left">📊 Showwcase: https://mishkat07.showwcase.com </h4>
+</div>
 
 <h4 align="center">📈 &nbsp;Profile Stats</h4>
-
 <div align="center">
 <table>
     <tr>
