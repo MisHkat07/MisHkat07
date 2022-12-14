@@ -2,9 +2,9 @@
 <h3 align="center">Apprentice Full Stack Web Developer</h3>
 
 <div align="center">
-<h4 align="left">🌏 Personal Website: https://mishkat-07.netlify.com </h4>
-<h4 align="left">📑 Resume: https://bit.ly/3NOWBS8 </h4>
-<h4 align="left">📊 Showwcase: https://mishkat07.showwcase.com </h4>
+<h4 text-align="left">🌏 Personal Website: https://mishkat-07.netlify.com </h4>
+<h4 text-align="left">📑 Resume: https://bit.ly/3NOWBS8 </h4>
+<h4 text-align="left">📊 Showwcase: https://mishkat07.showwcase.com </h4>
 </div>
 
 <h4 align="center">📈 &nbsp;Profile Stats</h4>
