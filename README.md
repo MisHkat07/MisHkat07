@@ -7,7 +7,7 @@
 <h4>➡ 𝘚𝘩𝘰𝘸𝘸𝘤𝘢𝘴𝘦: https://mishkat07.showwcase.com </h4>
 </div>
 
-<div align="center"  width="810">
+<div align="center"  width="820">
             
   <table>
   <tr>
