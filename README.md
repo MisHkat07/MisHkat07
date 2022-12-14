@@ -8,7 +8,7 @@
 <h4 align="center">📈 &nbsp;Profile Stats</h4>
 
 <div align="center">
-  <img width="500"
+  <img width="500" height="300"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=midnight-purple&langs_count=10"/>
   
   
