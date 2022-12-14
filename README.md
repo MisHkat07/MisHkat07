@@ -7,6 +7,7 @@
 
 <h4 align="center">📈 &nbsp;Profile Stats</h4>
 
+<div align="center">
 <table>
     <tr>
         <td>
@@ -17,6 +18,7 @@
         </td>
     </tr>
 </table>
+</div>
 
 <h4 align="center">🛠 &nbsp;Tech Stack</h4>
 <div align="center">
