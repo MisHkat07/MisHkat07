@@ -12,6 +12,7 @@
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=midnight-purple&langs_count=10"
             /><img height="137px" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=midnight-purpl" />
 </div>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=midnight-purple" />
 
 <h4 align="center">🛠 &nbsp;Tech Stack</h4>
 <div align="center">
