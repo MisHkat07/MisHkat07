@@ -1,10 +1,10 @@
-<h2 align="center">It's <  MisHkat  /></h2>
+<h2 align="center"><i><strong>It's <  MisHkat  /></strong></i></h2>
 <h3 align="center"><i>Apprencite FullStack Web Developer Specialized in MERN</i></h3>
 
 <div align="center">
- <h4>🌐 Personal Website: https://mishkat-07.netlify.com </h4>
-<h4>➡ Resume: https://bit.ly/3NOWBS8 </h4>
-<h4>➡ Showwcase: https://mishkat07.showwcase.com </h4>
+ <h4>🌐 <i>Personal Website: https://mishkat-07.netlify.com</i> </h4>
+<h4>➡ <i>Resume: https://bit.ly/3NOWBS8</i> </h4>
+<h4>➡ <i>Showwcase: https://mishkat07.showwcase.com</i> </h4>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
   <tr>
     <td >
 <div align="center">
-<h3 align="center"><  Profile Stats  /></h3>
+<h3 align="center"><i><  Profile Stats  /></i></h3>
             
 <img height="190" width="400" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" />    
 <img height="190" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
@@ -26,7 +26,7 @@
   <table>
   <tr >
     <td width="825">
-      <h3 align="center"><  Tech Stack  /></h3>
+      <h3 align="center"><i><  Tech Stack  /></i></h3>
 <div align="center">
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
