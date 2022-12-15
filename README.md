@@ -50,7 +50,7 @@
   </tr>
 </table>
   <br/>
-    ![Profile views](https://gpvc.arturio.dev/MisHkat07)
+![Profile views](https://gpvc.arturio.dev/MisHkat07)
 </div>
 
 
