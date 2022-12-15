@@ -2,7 +2,7 @@
 <h3 align="center">Apprencite FullStack Web Developer Specialized in MERN</h3>
 
 <div align="center">
-            <h4>🌐 Personal Website: <a href="https://mishkat-07.netlify.com" target="_blank"> https://mishkat-07.netlify.com </a> </h4>
+ <h4>🌐 Personal Website: https://mishkat-07.netlify.com </h4>
 <h4>➡ Resume: https://bit.ly/3NOWBS8 </h4>
 <h4>➡ Showwcase: https://mishkat07.showwcase.com </h4>
 </div>
@@ -15,8 +15,7 @@
 <div align="center">
 <h3 align="center"><  Profile Stats  /></h3>
             
-<img height="190" width="400" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" />
-            
+<img height="190" width="400" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" />    
 <img height="190" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
       
 </div>
