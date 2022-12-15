@@ -2,7 +2,7 @@
 <h3 align="center">Apprencite FullStack Web Developer Specialized in MERN</h3>
 
 <div align="center">
-<h4>🌐 Personal Website: https://mishkat-07.netlify.com </h4>
+            <h4>🌐 Personal Website: <a href="https://mishkat-07.netlify.com" target="blank"> https://mishkat-07.netlify.com </a> </h4>
 <h4>➡ Resume: https://bit.ly/3NOWBS8 </h4>
 <h4>➡ Showwcase: https://mishkat07.showwcase.com </h4>
 </div>
