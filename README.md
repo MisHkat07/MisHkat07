@@ -1,4 +1,4 @@
-<h2 align="center">It's <  MisHkat  /></h2>
+<h2 align="center">**It's <  MisHkat  />**</h2>
 <h3 align="center">Apprencite FullStack Web Developer Specialized in MERN</h3>
 
 <div align="center">
