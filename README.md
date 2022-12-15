@@ -1,4 +1,4 @@
-<h2 align="center">𝙄𝙩'𝙨 <  𝙈𝙞𝙨𝙃𝙠𝙖𝙩  /></h2>
+<h2 align="center">𝘐𝘵'𝘴 <  𝘔𝘪𝘴𝘏𝘬𝘢𝘵  /></h2>
 <h3 align="center">𝘈𝘱𝘱𝘳𝘦𝘯𝘤𝘪𝘵𝘦 𝘍𝘶𝘭𝘭𝘚𝘵𝘢𝘤𝘬 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘚𝘱𝘦𝘤𝘪𝘢𝘭𝘪𝘻𝘦𝘥 𝘪𝘯 𝘔𝘌𝘙𝘕</h3>
 
 <div align="center">
@@ -14,9 +14,10 @@
     <td >
 <div align="center">
 <h3 align="center"><  𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙎𝙩𝙖𝙩𝙨  /></h3>
-        
+            
 <img height="190" width="400" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" />
-            <img height="190" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
+            
+<img height="190" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
       
 </div>
 </td>
