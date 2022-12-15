@@ -1,10 +1,10 @@
-<h2 align="center">*_It's <  MisHkat  />_*</h2>
-<h3 align="center">𝘈𝘱𝘱𝘳𝘦𝘯𝘤𝘪𝘵𝘦 𝘍𝘶𝘭𝘭𝘚𝘵𝘢𝘤𝘬 𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘚𝘱𝘦𝘤𝘪𝘢𝘭𝘪𝘻𝘦𝘥 𝘪𝘯 𝘔𝘌𝘙𝘕</h3>
+<h2 align="center">It's <  MisHkat  /></h2>
+<h3 align="center">Apprencite FullStack Web Developer Specialized in MERN</h3>
 
 <div align="center">
-<h4>🌐 𝘗𝘦𝘳𝘴𝘰𝘯𝘢𝘭 𝘞𝘦𝘣𝘴𝘪𝘵𝘦: https://mishkat-07.netlify.com </h4>
-<h4>➡ 𝘙𝘦𝘴𝘶𝘮𝘦: https://bit.ly/3NOWBS8 </h4>
-<h4>➡ 𝘚𝘩𝘰𝘸𝘸𝘤𝘢𝘴𝘦: https://mishkat07.showwcase.com </h4>
+<h4>🌐 Personal Website: https://mishkat-07.netlify.com </h4>
+<h4>➡ Resume: https://bit.ly/3NOWBS8 </h4>
+<h4>➡ Showwcase: https://mishkat07.showwcase.com </h4>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
   <tr>
     <td >
 <div align="center">
-<h3 align="center"><  𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙎𝙩𝙖𝙩𝙨  /></h3>
+<h3 align="center"><  Profile Stats  /></h3>
             
 <img height="190" width="400" src="https://github-readme-stats.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" />
             
@@ -27,7 +27,7 @@
   <table>
   <tr >
     <td width="825">
-      <h3 align="center"><  𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠  /></h3>
+      <h3 align="center"><  Tech Stack  /></h3>
 <div align="center">
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
