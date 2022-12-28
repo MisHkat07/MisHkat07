@@ -1,7 +1,6 @@
 <h2 align="center"><i><b>It's <  MisHkat  /></b></i></h2>
 <h3 align="center"><i>Apprencite FullStack Web Developer Specialized in MERN</i></h3>
 
-
 <div align="center">
  <h4>🌐 <i>Personal Website: https://mishkat-07.netlify.com</i> </h4>
 <h4>➡ <i>Resume: https://bit.ly/3NOWBS8</i> </h4>
