@@ -20,7 +20,7 @@
 </div>
 
 <h3 align="center"><i><  Tech Stack  /></i></h3>
-<div align="center">
+<div align="center" width="825">
  
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
