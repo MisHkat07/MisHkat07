@@ -17,13 +17,10 @@
             
 <img height="190" width="400" src="https://mishkat07-readme.vercel.app/api?username=MisHkat07&include_all_commits=true&hide_border=true&show_icons=true&include_all_commits=true&theme=transparent" alt="MisHkat's Stats" />    
 <img height="190" width="400" src="https://mishkat07-readme.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
-      
 </div>
-      
 
-      <h3 align="center"><i><  Tech Stack  /></i></h3>
+<h3 align="center"><i><  Tech Stack  /></i></h3>
 <div align="center">
-
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
