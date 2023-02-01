@@ -1,27 +1,36 @@
 <h2 align="center"><i><b>It's <  MisHkat  /></b></i></h2>
-<h3 align="center"><i>Apprencite FullStack Web Developer Specialized in MERN</i></h3>
 
 <div align="center">
+ <table>
+  <tr >
+    <td>
+                
+ <div align="center">
+<h3><i>Apprencite FullStack Web Developer Specialized in MERN</i></h3>
 <h5>🌍 Website: https://mishkat-07.netlify.com </h5>
 <h5>📑 Resume: https://bit.ly/3NOWBS8</h5>
 </div>
-
+                
+   <br/>
+                
 <div align="center">
             
-  <table>
+<table>
   <tr >
     <td>
 <div align="center">
-<h3 align="center"><i><  Profile Stats  /></i></h3>
+  <h3 align="center"><i><  Profile Stats  /></i></h3>
+
+<img height="190" width="400" src="https://mishkat07-readme.vercel.app/api?username=MisHkat07&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="MisHkat's Stats" />
             
-<img height="190" width="400" src="https://mishkat07-readme.vercel.app/api?username=MisHkat07&include_all_commits=true&hide_border=true&show_icons=true&&include_all_commits=true&count_private=true&theme=transparent" alt="MisHkat's Stats" />    
 <img height="190" width="400" src="https://mishkat07-readme.vercel.app/api/top-langs/?username=MisHkat07&hide_border=true&layout=compact&show_icons=true&theme=transparent&langs_count=10"/>
+
 </div>
 
 <h3 align="center"><i><  Tech Stack  /></i></h3>
    <br/>
 <div align="center" width="825">
- 
+                 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -37,11 +46,15 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+               
 </div>
+     </td>
+  </tr>
+</table>
+            
+![Profile views](https://gpvc.arturio.dev/MisHkat07)
     </td>
   </tr>
 </table>
- 
-![Profile views](https://gpvc.arturio.dev/MisHkat07)
 </div>
+
