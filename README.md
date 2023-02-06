@@ -7,7 +7,6 @@
 <h5>🌍 Website: https://mishkat-07.netlify.com </h5>
 <h5>📑 Resume: https://bit.ly/3NOWBS8</h5>
 </div>
-                
    <br/>
                 
 <div align="center">
