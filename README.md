@@ -6,6 +6,7 @@
   stack: ["MERN", "Next.js", "TypeScript"],
   org: "PlanetEducationNetworks",
   web: "https://mishkat-07.netlify.app",
+  linkedin: "https://www.linkedin.com/in/mishkat07/",
   resume: "https://drive.google.com/file/d/1wL0FhOhUo5q-MEGSrUub7RdhqZLxcJX9/view",
 }
 ```
@@ -14,6 +15,7 @@
   <a href="https://github.com/abu-bakar-miskat"><img src="https://img.shields.io/badge/Work-abu--bakar--miskat-2f81f7?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="work github" /></a>
   <a href="https://github.com/MisHkat07"><img src="https://img.shields.io/badge/Personal-MisHkat07-8b949e?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="personal github" /></a>
   <a href="https://mishkat-07.netlify.app"><img src="https://img.shields.io/badge/Web-portfolio-2f81f7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=161b22" alt="web" /></a>
+  <a href="https://www.linkedin.com/in/mishkat07/"><img src="https://img.shields.io/badge/LinkedIn-mishkat07-2f81f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="linkedin" /></a>
   <a href="https://drive.google.com/file/d/1wL0FhOhUo5q-MEGSrUub7RdhqZLxcJX9/view"><img src="https://img.shields.io/badge/Docs-resume-8b949e?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=161b22" alt="resume" /></a>
 </p>
 </div>
