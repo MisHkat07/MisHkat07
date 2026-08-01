@@ -1,61 +1,44 @@
 <div align="center">
 
-```js
-const mishkat = {
-  name: "Abu Bakar Miskat",
-  role: "Full Stack Developer",
-  stack: ["MERN", "Next.js", "TypeScript"],
-  org: "PlanetEducationNetworks",
-  status: "shipping",
-};
+```yaml
+# mishkat.config
+name: Abu Bakar Miskat
+role: Full Stack Developer
+stack: [MERN, Next.js, TypeScript]
+org: PlanetEducationNetworks
+status: shipping
+
+github:
+  active:  abu-bakar-miskat   # ← work here
+  profile: MisHkat07
+  repos:   { active: 3, archive: 38 }
+
+links:
+  web:    https://mishkat-07.netlify.app
+  resume: https://bit.ly/3NOWBS8
 ```
 
-<br/>
-
-### `/sys/info`
-
-<table align="center">
+<table>
   <tr>
-    <td align="right"><code>user.active</code></td>
-    <td align="left"><a href="https://github.com/abu-bakar-miskat"><code>abu-bakar-miskat</code></a> ← work here</td>
-  </tr>
-  <tr>
-    <td align="right"><code>user.profile</code></td>
-    <td align="left"><a href="https://github.com/MisHkat07"><code>MisHkat07</code></a></td>
-  </tr>
-  <tr>
-    <td align="right"><code>org</code></td>
-    <td align="left"><a href="https://github.com/PlanetEducationNetworks"><code>PlanetEducationNetworks</code></a></td>
-  </tr>
-  <tr>
-    <td align="right"><code>web</code></td>
-    <td align="left"><a href="https://mishkat-07.netlify.app">mishkat-07.netlify.app</a></td>
-  </tr>
-  <tr>
-    <td align="right"><code>resume</code></td>
-    <td align="left"><a href="https://bit.ly/3NOWBS8">bit.ly/3NOWBS8</a></td>
-  </tr>
-  <tr>
-    <td align="right"><code>stack</code></td>
-    <td align="left"><code>React</code> <code>Next.js</code> <code>TS</code> <code>Node</code> <code>MongoDB</code></td>
-  </tr>
-  <tr>
-    <td align="right"><code>repos.active</code></td>
-    <td align="left"><code>3</code> · <a href="https://github.com/abu-bakar-miskat">abu-bakar-miskat</a></td>
-  </tr>
-  <tr>
-    <td align="right"><code>repos.archive</code></td>
-    <td align="left"><code>38</code> · <a href="https://github.com/MisHkat07">MisHkat07</a></td>
-  </tr>
-  <tr>
-    <td align="right"><code>views</code></td>
-    <td align="left"><img src="https://komarev.com/ghpvc/?username=MisHkat07&style=flat-square&color=238636&label=profile" alt="views" /></td>
+    <td width="33%" align="center">
+      <a href="https://github.com/abu-bakar-miskat">
+        <img src="https://img.shields.io/badge/github-abu--bakar--miskat-00ff9f?style=for-the-badge&logo=github&logoColor=00ff9f&labelColor=0d1117" alt="github" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://mishkat-07.netlify.app">
+        <img src="https://img.shields.io/badge/web-portfolio-58a6ff?style=for-the-badge&logo=netlify&logoColor=58a6ff&labelColor=0d1117" alt="web" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://bit.ly/3NOWBS8">
+        <img src="https://img.shields.io/badge/docs-resume-f0883e?style=for-the-badge&logo=adobeacrobatreader&logoColor=f0883e&labelColor=0d1117" alt="resume" />
+      </a>
+    </td>
   </tr>
 </table>
 
-```bash
-git clone https://github.com/abu-bakar-miskat
-```
+<img src="https://komarev.com/ghpvc/?username=MisHkat07&style=flat-square&color=238636&label=views" alt="views" />
 
 </div>
 
@@ -65,15 +48,18 @@ git clone https://github.com/abu-bakar-miskat
 
 ### `/src/active`
 
-```
+```text
 abu-bakar-miskat/
 ├── PEN-WEB-CMS/          # TypeScript · PEN CMS
 ├── pen-website/          # TypeScript · PEN site
 └── Practical-Digital-…/  # Free UI design course (BN)
 ```
 
-<a href="https://github.com/abu-bakar-miskat/PEN-WEB-CMS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abu-bakar-miskat&repo=PEN-WEB-CMS&theme=github_dark&hide_border=true&bg_color=0d1117" alt="PEN-WEB-CMS" /></a>
-<a href="https://github.com/abu-bakar-miskat/pen-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abu-bakar-miskat&repo=pen-website&theme=github_dark&hide_border=true&bg_color=0d1117" alt="pen-website" /></a>
+| repo | lang | note |
+|:----:|:----:|:----:|
+| [PEN-WEB-CMS](https://github.com/abu-bakar-miskat/PEN-WEB-CMS) | TypeScript | PEN CMS |
+| [pen-website](https://github.com/abu-bakar-miskat/pen-website) | TypeScript | PEN site |
+| [Practical-Digital-Product-Design-2025-Free](https://github.com/abu-bakar-miskat/Practical-Digital-Product-Design-2025-Free) | Course | Free UI course (BN) |
 
 </div>
 
