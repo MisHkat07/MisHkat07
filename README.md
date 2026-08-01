@@ -1,4 +1,3 @@
-<div align="center">
 
 ```js
 {
@@ -10,7 +9,7 @@
   resume: "https://bit.ly/3NOWBS8",
 }
 ```
-
+<div align="center">
 <table>
   <tr>
     <td width="50%" align="center">
